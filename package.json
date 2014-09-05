@@ -1,0 +1,8 @@
+{
+  "name": "mqtt-client-nodered",
+  "main": "app.js",
+  "dependencies" : {
+    "express" : "~4.0.0", 	
+    "node-red": "~0.8.1"
+  }
+}
